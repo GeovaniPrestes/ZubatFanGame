@@ -1,0 +1,7 @@
+Estilo do Jogo:
+-Beat em Up com minigames;
+
+Precisa ter transformação;
+Mecanicas básicas do Beat em Up;
+
+Planejar apenas 4 fases inicialmente;
